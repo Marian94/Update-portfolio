@@ -5,7 +5,7 @@ This is the updating  portfolio page and other materials to build toward being e
 
 If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
 
-## Homework Requirements
+## Project Requirements
 
 * Updated portfolio featuring Project 1 and two exemplary homework assignments.
 
@@ -33,4 +33,6 @@ If you are opting out of career services, this is *still a required assignment*.
 3. [Updated Resume](#updated-resume)
 
 4. [Updated LinkedIn](#updated-linkedin)
+
+
 
